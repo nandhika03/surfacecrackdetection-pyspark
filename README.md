@@ -135,7 +135,7 @@ The model shows strong sensitivity to cracks but poor discrimination of non-crac
 ### Model Selection
 
 **VGG16** was selected as the best-performing model based on:
-
+![img](https://github.com/nandhika03/surfacecrackdetection-pyspark/blob/main/Reports/VGG16Workflow.png)
 * High recall for cracked surfaces
 * Low number of false negatives
 * Stable generalization compared to deeper architectures
